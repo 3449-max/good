@@ -1,0 +1,29 @@
+{
+    "label": "🌍 简体中文",
+    "pageTitle": "今天也可以学编程吗？",
+    "greeting": "你希望我怎么称呼你呢？(*>﹏<*)",
+    "subGreeting": "不想告诉我的话也可以留空哦",
+    "usernamePlaceholder": "请输入你的名字",
+    "confirmButton": "是这个名字呢",
+    "xiaohongshuLinkText": "小红书(*^▽^*)",
+    "douyinLinkText": "抖音( •̀ ω •́ )",
+    "repoLinkText": "源代码仓库ˋ( ° ▽、° )",
+    "HelloNotice": "ฅ•ω•ฅ 河南师范大学！",
+    "questionTemplate": "让我们开启今天的编程旅程？{{username}}",
+    "loveMessage": "!!!就让我们开启今天的编程旅程吧!! ( >᎑<)♡︎ᐝ {{username}}  ♡︎ᐝ(>᎑< )",
+    "yesButton": "我最喜欢学新东西了",
+    "noButton": "不要",
+    "deepseek":"deepseek",
+    "deepseek-text":"神奇的deepseek",
+    "interesting-voice":"即梦AI",
+    "interesting-voice-text":"有意思的视频ai生成网站",
+    "interesting-codeweb":"scratch",
+    "interesting-codeweb-text":"好玩的，有意思的编程网站",
+    "noTexts": [
+      "？你认真的吗…",
+      "要不再想想？",
+      "不许选这个！",
+      "我会很伤心…",
+      "不行:("
+    ]
+}
